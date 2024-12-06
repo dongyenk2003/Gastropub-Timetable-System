@@ -6,3 +6,7 @@ Its interface is a mixture of graphical and commandline based.
 
 It allows the user to create and modify a staff roster: something stores information about current employees.
 It then allows the user to create and modify a timetable. The user can draw on the employee roster and slot employees into shifts on a gastropub timetable.
+
+ABOUT THE DIRECTORIES:
+======================
+mmp-dok15-gastropub-timetabling ~ contains all of the source code for the project.
