@@ -10,3 +10,5 @@ It then allows the user to create and modify a timetable. The user can draw on t
 ABOUT THE DIRECTORIES:
 ======================
 mmp-dok15-gastropub-timetabling ~ contains all of the source code for the project.
+mmp-dok15-gastropub-timetabling-STANDALONE-EXECUTABLE ~ contains jar for the project compiled with different Java versions, along with relevant executable files.
+
