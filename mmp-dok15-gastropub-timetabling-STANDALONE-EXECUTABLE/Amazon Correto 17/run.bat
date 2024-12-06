@@ -1,0 +1,1 @@
+java -jar mmp-dok15-gastropub-timetabling.jar
